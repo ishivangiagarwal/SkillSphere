@@ -1,4 +1,4 @@
-<img width="1000" height="596" alt="image" src="https://github.com/user-attachments/assets/fb054b26-7ed0-4034-aa2b-6c694c1b44d1" />SkillSphere is an AI-powered learning and collaboration platform built using the MERN stack. It helps students learn through structured courses, track progress, manage projects and tasks, create resumes, and get personalized assistance using Google Gemini AI.
+SkillSphere is an AI-powered learning and collaboration platform built using the MERN stack. It helps students learn through structured courses, track progress, manage projects and tasks, create resumes, and get personalized assistance using Google Gemini AI.
 
 Features:
 
@@ -19,5 +19,7 @@ Google Gemini AI
 JWT, Axios
 
 <img width="1000" height="596" alt="image" src="https://github.com/user-attachments/assets/4a357f09-6cb8-412e-b228-edfb6e896db2" />
+
+
 <img width="1042" height="595" alt="image" src="https://github.com/user-attachments/assets/20a8f667-240b-46a2-85fc-cbb6e3707e7b" />
 
