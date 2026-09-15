@@ -18,7 +18,6 @@ MongoDB, Mongoose
 Google Gemini AI
 JWT, Axios
 
-<img width="1000" height="596" alt="image" src="https://github.com/user-attachments/assets/4a357f09-6cb8-412e-b228-edfb6e896db2" />
 
 
 <img width="1042" height="595" alt="image" src="https://github.com/user-attachments/assets/20a8f667-240b-46a2-85fc-cbb6e3707e7b" />
